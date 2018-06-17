@@ -27,8 +27,8 @@ Full featured Python library to control the Philips Hue lighting system.
 - Work in a procedural way or object oriented way
 
 ## Installation
+ You can download from<a href="https://github.com/lightnotesstudio/Hue_Light_Philips_TouchDesigner/blob/master/Library/phue-master.zip"> here</a>.
 
-You can download from here https://github.com/lightnotesstudio/Hue_Light_Philips_TouchDesigner/blob/master/Library/phue-master.zip
 
 ### Using distutils
 
