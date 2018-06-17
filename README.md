@@ -8,26 +8,6 @@
 ![](https://github.com/lightnotesstudio/Hue_Light_Philips_TouchDesigner/blob/master/explanation/ip.gif)
 
 
-### Some Useful links
-
-- **Website:** https://www.lightnotes.es
-- **Instagram** https://www.instagram.com/light_notes_studio/
-
-<h3> Code Demo </h3>
-
-```html
-
-We will use markdown for the Syntax Highlighting
-
-<ul>
-  <li>Beautiful Starter Template for README.md</li>
-  <li>Key feature num. 2</li>
-  <li>Key feature num. 3</li>
-  <li>Key feature num. 4</li>
-</ul>
-
-```
-
 # phue: A Python library for Philips Hue
 
 Full featured Python library to control the Philips Hue lighting system.
@@ -296,6 +276,8 @@ Keep it simple. Keep it minimal. Don't put every single feature just because you
   <li>Javier Alvarez Bailen</li>
 </ul>
 
-<h3>License</h3>
+### Some Useful links
 
-This project is licensed under the MIT License
+- **Website:** https://www.lightnotes.es
+- **Instagram** https://www.instagram.com/light_notes_studio/
+
