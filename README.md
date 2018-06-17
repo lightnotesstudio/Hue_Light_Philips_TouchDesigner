@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://www.instagram.com/p/BXQrFtHg2ae/" self="_blank">Example with Neurosky Mindwave</a> </p>
 
-![](Hue_Light_Philips_TouchDesigner/explanation/ip.gif)
+![](https://github.com/lightnotesstudio/Hue_Light_Philips_TouchDesigner/blob/master/explanation/ip.gif)
 
 ## Table of Contents
 
